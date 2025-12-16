@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dartprograming
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# DART
+Dart practice
+>>>>>>> 74efb57cc2280f53a3ffd7f8411c07b06ac0ca48
