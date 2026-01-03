@@ -1,23 +1,45 @@
-void main (){
+// void main (){
+//
+//   Person person = Person();
+//   person.name = 'dhanraj';
+//   person.name2= 'kp';
+//
+//   person.displayinfo();
+//
+// }
+// class Person{
+//   String ?name;
+//   String ?name2;
+//   int age = 21;
+//
+//   void displayinfo(){
+//
+//     print("${name}");
+//     print("${name2}");
+//
+//     print("${age}");
+//   }
+//
+// }
 
-  Person person = Person();
-  person.name = 'dhanraj';
-  person.name2= 'kp';
 
-  person.displayinfo();
+
+import 'package:flutter/material.dart';
+
+void main(){
+
 
 }
-class Person{
-  String ?name;
-  String ?name2;
-  int age = 21;
 
-  void displayinfo(){
+class Cookie{
+  String Shape = " Circle";
+  double size = 15.6;
+}
 
-    print("${name}");
-    print("${name2}");
+void banking (){
+  print("cooking is started");
+}
 
-    print("${age}");
-  }
-
+bool isCooling(){
+  return false;
 }
