@@ -25,10 +25,10 @@ import 'dart:io';
 
 
 
-
-// void main() {
 //
-//   int x = 4;
+// void main() {
+//    stdout.write("enter a number ");
+//   int x = int.parse(stdin.readLineSync()!);
 //   for (int i = 1; i <= 10; i++) {
 //     print('$x * $i = ${x*i}');
 //   }
@@ -50,3 +50,30 @@ import 'dart:io';
 //   }
 // }
 
+
+
+/// while loop
+
+//
+//
+// void main(){
+//
+//   int x = 4;
+//   while(x < 5){
+//     print(x);
+//
+//     x++;
+//
+//   }
+// }
+
+
+
+/// fibonacci series
+
+
+
+
+void main(){
+
+}
