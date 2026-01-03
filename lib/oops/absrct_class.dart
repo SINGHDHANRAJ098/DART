@@ -21,12 +21,24 @@
 
 
 
+//
+// void main() {
+//   List<String> cityList = ["Delhi", "Mumbai", "Pune", "Delhi", "Goa"];
+//
+//   Set<String> citySet = cityList.toSet();
+//
+//   print("City List: $cityList");
+//   print("City Set (Unique): $citySet");
+// }
 
-void main() {
-  List<String> cityList = ["Delhi", "Mumbai", "Pune", "Delhi", "Goa"];
 
-  Set<String> citySet = cityList.toSet();
-
-  print("City List: $cityList");
-  print("City Set (Unique): $citySet");
-}
+//
+// void main(){
+//   Map<String, String> countryCapital = {
+//
+//     'India': 'New Delhi',
+//     'Raj':'Jaipur'
+//
+//   };
+//   print(countryCapital);
+// }
