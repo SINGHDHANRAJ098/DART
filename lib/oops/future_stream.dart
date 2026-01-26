@@ -58,7 +58,29 @@
 
 import 'dart:io';
 
-void main (){
-  stdout.write("enter a number");
+// void main (){
+//   stdout.write("enter  number");
+//   int x = int.parse(stdin.readLineSync()!);
+//   int fact = 1;
+//   for(int i = 1; i<=x; i++){
+//     fact*=i;
+//   }
+//   print("$x = $fact");
+//
+// }
+
+// void main (){
+//   int a = 0;
+//   int b = 1;
+//   print("factorial list");
+//   for(int i =1; i <=10; i ++){
+//     print(a);
+//     int temp = a+b;
+//     a=b;
+//     b= temp;
+//   }
+// }
+
+void main(){
 
 }
