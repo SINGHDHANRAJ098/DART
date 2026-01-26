@@ -12,18 +12,9 @@ import 'dart:io';
 //   }
 // }
 
-
-
-
-
 /// for loop
 
-
-
-
 /// using for loop print table
-
-
 
 //
 // void main() {
@@ -33,8 +24,6 @@ import 'dart:io';
 //     print('$x * $i = ${x*i}');
 //   }
 // }
-
-
 
 /// even odd
 //
@@ -49,8 +38,6 @@ import 'dart:io';
 //     }
 //   }
 // }
-
-
 
 /// while loop
 
@@ -67,13 +54,43 @@ import 'dart:io';
 //   }
 // }
 
+//
+// /// positive Negative
+//  void main(){
+//    int value = 3;
+//
+//    if(value > 0){
+//      print("postive ");
+//
+//    }else if (value < 0){
+//      print(" negative");
+//    } else{
+//      print("Zero");
+//    }
+//  }
 
+//
+// void main() {
+//   List<int> numbers = [10, -5, 0, 25, -30, 7, -1];
+//   for (int num in numbers) {
+//     if (num > 0) {
+//       print("$num is Positive");
+//     } else if (num < 0) {
+//       print("$num is Negative");
+//     } else {
+//       print("$num is Zero");
+//     }
+//   }
+// }
 
-/// fibonacci series
+///factorial
 
-
-
-
-void main(){
-
-}
+// void main() {
+//   int a = 5;
+//   int fact = 1;
+//
+//   for (int i = 1; i <= a; i++) {
+//     fact *= i;
+//   }
+//   print("$a = $fact");
+// }
