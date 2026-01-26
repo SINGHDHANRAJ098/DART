@@ -27,30 +27,38 @@
 // }
 
 
+//
+// class Employee {
+//   String name;
+//   double salary;
+//
+//   Employee(this.name, this.salary);
+//
+//
+//   Employee.intern(String name)
+//       : this(name, 5000);
+// }
+//
+// class Manager extends Employee {
+//   int teamSize;
+//
+//   Manager(String name, double salary, this.teamSize)
+//       : super(name, salary);
+// }
+//
+// void main() {
+//   Manager m1 = Manager("Neha", 60000, 5);
+//
+//   print("Manager: ${m1.name}");
+//   print("Salary: ${m1.salary}");
+//   print("Team Size: ${m1.teamSize}");
+// }
+//
 
-class Employee {
-  String name;
-  double salary;
 
-  Employee(this.name, this.salary);
+import 'dart:io';
 
+void main (){
+  stdout.write("enter a number");
 
-  Employee.intern(String name)
-      : this(name, 5000);
 }
-
-class Manager extends Employee {
-  int teamSize;
-
-  Manager(String name, double salary, this.teamSize)
-      : super(name, salary);
-}
-
-void main() {
-  Manager m1 = Manager("Neha", 60000, 5);
-
-  print("Manager: ${m1.name}");
-  print("Salary: ${m1.salary}");
-  print("Team Size: ${m1.teamSize}");
-}
-

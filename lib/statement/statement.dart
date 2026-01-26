@@ -16,9 +16,9 @@ import 'dart:io';
 
 /// using for loop print table
 
-//
+
 // void main() {
-//    stdout.write("enter a number ");
+//    stdout.write("enter a number");
 //   int x = int.parse(stdin.readLineSync()!);
 //   for (int i = 1; i <= 10; i++) {
 //     print('$x * $i = ${x*i}');
@@ -94,3 +94,19 @@ import 'dart:io';
 //   }
 //   print("$a = $fact");
 // }
+
+
+///Fibonacci
+
+
+// void main (){
+//   int a = 0; int b = 1;
+//   print ("fibonacci series");
+//   for(int i = 1; i<=10; i++){
+//     print(a);
+//     int temp = a+b;
+//     a=b;
+//     b=temp;
+//   }
+// }
+
